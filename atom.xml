@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-07T10:30:42.000Z</updated>
+  <updated>2018-01-07T10:53:54.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/01/07/test/"/>
     <id>http://yoursite.com/2018/01/07/test/</id>
     <published>2018-01-07T09:55:00.000Z</published>
-    <updated>2018-01-07T10:30:42.000Z</updated>
+    <updated>2018-01-07T10:53:54.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=513791211&auto=0&height=66"></iframe><h1 id="hi"><a href="#hi" class="headerlink" title="hi"></a>hi</h1><embed src="http://player.video.qiyi.com/b40d95bae0c6e84164bbb9307bf62ef3/0/0/v_19rrdwvld8.swf-albumId=811075200-tvId=811075200-isPurchase=2-cnId=1" allowfullscreen="true" quality="high" width="480" height="350" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash">]]></content>
+    <content type="html"><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=513791211&auto=0&height=66"></iframe><h1 id="hi"><a href="#hi" class="headerlink" title="hi"></a>hi</h1><video id="video" controls preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png"><br>      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4"><br>      <source id="webm" src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm"><br>      <source id="ogv" src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg"><br>      <p>Your user agent does not support the HTML5 Video element.</p><br>    </video>]]></content>
     
     <summary type="html">
     
