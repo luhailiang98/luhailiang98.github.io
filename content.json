@@ -1,1 +1,1 @@
-[{"title":"Hello World","date":"2018-01-07T04:49:11.000Z","path":"2018/01/07/hello-world/","tags":[{"name":"test","slug":"test","permalink":"http://yoursite.com/tags/test/"}]}]
+{"meta":{"title":"Hexo","subtitle":null,"description":null,"author":"John Doe","url":"http://yoursite.com"},"posts":[{"title":"Hello World","date":"2018-01-07T04:49:11.000Z","path":"2018/01/07/hello-world/","permalink":"http://yoursite.com/2018/01/07/hello-world/","categories":[],"tags":[{"name":"test","slug":"test","permalink":"http://yoursite.com/tags/test/"}]}]}
